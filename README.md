@@ -2,7 +2,7 @@
 
 A machine learning-based application for automatic guitar chord recognition and finger placement tracking using **skeletal hand data** (MediaPipe/OpenPose) combined with the **Random Forest** algorithm, rather than raw audio signals.
 
----
+# *The main source code of this project is stored in a private repository for security and copyright reasons.*
 
 ## 🚀 Features
 
