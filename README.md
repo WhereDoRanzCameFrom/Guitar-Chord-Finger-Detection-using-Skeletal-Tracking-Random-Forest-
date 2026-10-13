@@ -1,6 +1,6 @@
 # 🎸 Guitar Chord & Finger Detection using Skeletal Tracking (Random Forest)
 
-A machine learning-based application for automatic guitar chord recognition and finger placement tracking using **skeletal hand data** (MediaPipe/OpenPose) combined with the **Random Forest** algorithm, rather than raw audio signals.
+A machine learning-based application for automatic guitar chord recognition and finger placement tracking using skeletal hand data (MediaPipe/OpenPose) combined with the Random Forest algorithm.
 
 # *The main source code of this project is stored in a private repository for security and copyright reasons.*
 
@@ -23,9 +23,3 @@ A machine learning-based application for automatic guitar chord recognition and 
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/chord-skeleton-rf.git](https://github.com/your-username/chord-skeleton-rf.git)
-   cd chord-skeleton-rf
